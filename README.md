@@ -2,7 +2,7 @@
 
 This library simplifies working with matrices and vectors in linear algebra. All the basic functions are implemented here, such as:
 
-1. Addition, subtraction, multiplication of matrices and vectors using basic sign operations +, -, *
+* Addition, subtraction, multiplication of matrices and vectors using basic sign operations +, -, *
 2. Calculate the Hadamard product using the method Adamar(const Matrix& a)
 3. Trace() 
 4. Matrix transposition - Transpose()
